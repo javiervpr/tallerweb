@@ -1,0 +1,12 @@
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Soporte.Domain\bin\Debug\netcoreapp3.1\Tienda.Soporte.Domain.deps.json
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Soporte.Domain\bin\Debug\netcoreapp3.1\Tienda.Soporte.Domain.dll
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Soporte.Domain\bin\Debug\netcoreapp3.1\Tienda.Soporte.Domain.pdb
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Soporte.Domain\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Soporte.Domain\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.csprojAssemblyReference.cache
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.csproj.CoreCompileInputs.cache
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.AssemblyInfoInputs.cache
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.AssemblyInfo.cs
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.csproj.CopyComplete
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.dll
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.pdb

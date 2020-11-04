@@ -1,0 +1,30 @@
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.deps.json
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.dll
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.pdb
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.csprojAssemblyReference.cache
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.AssemblyInfoInputs.cache
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.AssemblyInfo.cs
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.csproj.CopyComplete
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.dll
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.pdb
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.runtimeconfig.json
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.runtimeconfig.dev.json
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.csproj.CoreCompileInputs.cache
+D:\Temp\II-2020\tiw\Tienda\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.genruntimeconfig.cache
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.deps.json
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.runtimeconfig.json
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.runtimeconfig.dev.json
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.dll
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.pdb
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.csprojAssemblyReference.cache
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.AssemblyInfoInputs.cache
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.AssemblyInfo.cs
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.csproj.CopyComplete
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.dll
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.pdb
+C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Domain\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.genruntimeconfig.cache
