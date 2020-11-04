@@ -1,2 +1,5 @@
-# tallerweb
-Proyectos realizados para la materia taller de ingeniería web
+# Taller de ingeniería web - Digitalización de tienda de electrodomésticos
+Proyecto de un ecommerce aplicando el enfoque de desarrollo DDD en una arquitectura de microservicios.
+## Tecnologías
+ASP.Net Core
+Angular
