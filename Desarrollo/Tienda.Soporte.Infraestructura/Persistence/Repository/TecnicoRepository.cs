@@ -27,5 +27,12 @@ namespace Tienda.Soporte.Infraestructura.Persistence.Repository
         {
             await _context.AddAsync(tecnico);
         }
+
+        public async Task InsertHorario(TecnicoHorario tecnicoHorario, string tecnicoID)
+        {
+            Tecnico tecnico = await _context.Tecnicos.Where(t => t.Id.Equals(Guid.Parse(tecnicoID))).FirstOrDefaultAsync();
+            tecnicoHorario.Tecnico = tecnico;
+            await _context.TecnicoHorarios.AddAsync(tecnicoHorario);
+        }
     }
 }

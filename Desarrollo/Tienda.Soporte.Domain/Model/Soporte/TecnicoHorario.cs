@@ -14,7 +14,8 @@ namespace Tienda.Soporte.Domain.Model.Soporte
         public DateTime HoraFin { get; set; }
         public Tecnico Tecnico { get; set; }
 
-        public TecnicoHorario(Dia dia, DateTime horaInicio, DateTime horaFin)
+
+        public TecnicoHorario(Dia dia, DateTime horaInicio, DateTime horaFin, Tecnico tecnico = null)
         {
             CheckRule(new NotNullRule<DateTime>(HoraInicio));
             CheckRule(new NotNullRule<DateTime>(HoraFin));
@@ -23,6 +24,7 @@ namespace Tienda.Soporte.Domain.Model.Soporte
             Dia = dia;
             HoraInicio = horaInicio;
             HoraFin = horaFin;
+            Tecnico = tecnico;
         }
 
         protected TecnicoHorario () { }

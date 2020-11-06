@@ -32,3 +32,20 @@ C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Distr
 C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.dll
 C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.pdb
 C:\Users\javie\Documents\Universidad\Taller Web\Clases\Tienda 12-10\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.genruntimeconfig.cache
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.deps.json
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.runtimeconfig.json
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.runtimeconfig.dev.json
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.dll
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.pdb
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.dll
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.pdb
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.csprojAssemblyReference.cache
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.AssemblyInfo.cs
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.csproj.CopyComplete
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.dll
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.pdb
+C:\Users\javie\Documents\Universidad\Taller Web\Repositorio\Desarrollo\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.genruntimeconfig.cache

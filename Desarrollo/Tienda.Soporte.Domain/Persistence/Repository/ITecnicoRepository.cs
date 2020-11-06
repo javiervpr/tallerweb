@@ -10,5 +10,7 @@ namespace Tienda.Soporte.Domain.Persistence.Repository
     {
         Task Insert(Tecnico tecnico);
         Task<Tecnico> GetTecnicoById(Guid id);
+
+        Task InsertHorario(TecnicoHorario tecnicoHorario, string tecnicoID);
     }
 }

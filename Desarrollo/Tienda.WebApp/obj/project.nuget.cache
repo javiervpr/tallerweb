@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dxAu3F9N2q4crMH1YQ8T2I7LOxicK0tJJ1yvdsMcnrCuYskj5Se+5A850bUI6QFepS2s3eTaX+PSTsIMz2zQXQ==",
+  "dgSpecHash": "BeblJEzVSYcLi/Q+C9wh+HwgYasZwRQThRKsbvKDGi779gyE1qUJLnpYUvZ4MoOn0p1c3zVbBs3hWqTSLj1S5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.WebApp\\Tienda.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.WebApp\\Tienda.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javie\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\javie\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

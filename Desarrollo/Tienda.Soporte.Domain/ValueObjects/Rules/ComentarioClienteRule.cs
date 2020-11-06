@@ -13,9 +13,9 @@ namespace Tienda.Soporte.ValueObjects.Rules
             _value = value;
         }
 
-        public string Message => "La dirección no puede contener mas de 600 caracteres";
+        public string Message => "La dirección debe contener entre 5-600 caracteres";
 
-        public bool IsBroken() => _value.Length > 600;
+        public bool IsBroken() => _value.Length > 600 || _value.Length < 4;
     }
 }
 

@@ -25,7 +25,7 @@ namespace Tienda.WebApp.ViewModel.Soporte
             List<Tecnico> listTecnicos = new List<Tecnico>();
             foreach(string tecnicoPK in TecnicosPK)
             {
-                listTecnicos.Add(new Tecnico(Guid.Parse(tecnicoPK),"","",""));
+                listTecnicos.Add(new Tecnico(Guid.Parse(tecnicoPK),"   ","   ","   "));
             }
             return listTecnicos;
         }        

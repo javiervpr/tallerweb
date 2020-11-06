@@ -14,8 +14,8 @@ namespace Tienda.SharedKernel.ValueObjects.Rule
             _value = value;
         }
 
-        public string Message => "El nombre no puede contener mas de 200 caracteres";
+        public string Message => "El nombre no puede contener debe tener entre 3-200 caracteres";
 
-        public bool IsBroken() => _value.Length > 200;
+        public bool IsBroken() => _value.Length > 200 || _value.Length < 2;
     }
 }

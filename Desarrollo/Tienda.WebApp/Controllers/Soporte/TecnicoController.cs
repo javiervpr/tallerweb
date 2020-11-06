@@ -4,6 +4,8 @@ using Tienda.Soporte.Domain.Persistence;
 using Tienda.Soporte.Domain.Model.Soporte;
 using Tienda.Soporte.Domain.Persistence.Repository;
 using Tienda.WebApp.ViewModel;
+using System;
+using Tienda.WebApp.ViewModel.Soporte;
 
 namespace Tienda.WebApp.Controllers.Soporte
 {
@@ -28,7 +30,17 @@ namespace Tienda.WebApp.Controllers.Soporte
             await _tecnicoRepository.Insert(tecnico);
             await _unitOfWork.Commit();
             return Ok("Success");
+        }
 
+        [HttpPost]
+        [Route("insertar-horario")]
+        public async Task<IActionResult> InsertarHorario([FromBody] TecnicoHorarioViewModel tecnicoHorarioViewModel)
+        {
+            TecnicoHorario tecnicoHorario = new TecnicoHorario(tecnicoHorarioViewModel.Dia, tecnicoHorarioViewModel.HoraInicio, 
+                tecnicoHorarioViewModel.HoraFin);
+            await _tecnicoRepository.InsertHorario(tecnicoHorario, tecnicoHorarioViewModel.TecnicoID);
+            await _unitOfWork.Commit();
+            return Ok("Success");
         }
     }
 }

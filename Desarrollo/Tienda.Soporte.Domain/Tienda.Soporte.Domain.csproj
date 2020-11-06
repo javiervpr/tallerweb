@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="Model\Soporte\Id\" />
-    <Folder Include="Model\Soporte\Rules\" />
   </ItemGroup>
 
   <ItemGroup>

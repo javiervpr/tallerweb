@@ -824,11 +824,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Domain\\Tienda.Distribucion.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Domain\\Tienda.Distribucion.Domain.csproj",
       "projectName": "Tienda.Distribucion.Domain",
-      "projectPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Domain\\Tienda.Distribucion.Domain.csproj",
+      "projectPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Domain\\Tienda.Distribucion.Domain.csproj",
       "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Domain\\obj\\",
+      "outputPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -844,8 +844,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.SharedKernel\\Tienda.SharedKernel.csproj": {
-              "projectPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.SharedKernel\\Tienda.SharedKernel.csproj"
+            "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.SharedKernel\\Tienda.SharedKernel.csproj": {
+              "projectPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.SharedKernel\\Tienda.SharedKernel.csproj"
             }
           }
         }

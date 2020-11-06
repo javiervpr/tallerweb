@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tuX7dWsjssBEioEc7pQsGk1de6RoFp/48tqQ4+sVeOCDFKr1bT0hTGjRU3TUGaUIR+AVvmYl3+nFj46swh/KSA==",
+  "dgSpecHash": "HPHCdMkr93S6uh0bvN56XzVs/YGRqS0KG7uMpi/nCT8/+G/1Fq3bZL6NzkWfF2jCjcdIvaHXestzzWXOxgxIeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.SharedKernel\\Tienda.SharedKernel.csproj",
+  "projectFilePath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.SharedKernel\\Tienda.SharedKernel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javie\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\javie\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

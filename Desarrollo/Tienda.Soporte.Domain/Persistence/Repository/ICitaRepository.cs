@@ -10,5 +10,6 @@ namespace Tienda.Soporte.Domain.Persistence.Repository
     {
         Task Insert(Cita cita);
         Task<Cita> GetCitaById(Guid id);
+        Task<IList<Cita>> GetCitas();
     }
 }

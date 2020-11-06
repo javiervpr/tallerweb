@@ -6267,11 +6267,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Distribucion.Infraestructura\\Tienda.Distribucion.Infraestructura.csproj",
+      "projectUniqueName": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Distribucion.Infraestructura\\Tienda.Distribucion.Infraestructura.csproj",
       "projectName": "Tienda.Distribucion.Infraestructura",
-      "projectPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Distribucion.Infraestructura\\Tienda.Distribucion.Infraestructura.csproj",
+      "projectPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Distribucion.Infraestructura\\Tienda.Distribucion.Infraestructura.csproj",
       "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Distribucion.Infraestructura\\obj\\",
+      "outputPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Distribucion.Infraestructura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6287,8 +6287,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Domain\\Tienda.Distribucion.Domain.csproj": {
-              "projectPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Domain\\Tienda.Distribucion.Domain.csproj"
+            "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Domain\\Tienda.Distribucion.Domain.csproj": {
+              "projectPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Domain\\Tienda.Distribucion.Domain.csproj"
             }
           }
         }

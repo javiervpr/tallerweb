@@ -6334,11 +6334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Soporte.Infraestructura\\Tienda.Soporte.Infraestructura.csproj",
+      "projectUniqueName": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Soporte.Infraestructura\\Tienda.Soporte.Infraestructura.csproj",
       "projectName": "Tienda.Soporte.Infraestructura",
-      "projectPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Soporte.Infraestructura\\Tienda.Soporte.Infraestructura.csproj",
+      "projectPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Soporte.Infraestructura\\Tienda.Soporte.Infraestructura.csproj",
       "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Soporte.Infraestructura\\obj\\",
+      "outputPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Soporte.Infraestructura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6354,8 +6354,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Soporte.Domain\\Tienda.Soporte.Domain.csproj": {
-              "projectPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Clases\\Tienda 12-10\\Tienda.Soporte.Domain\\Tienda.Soporte.Domain.csproj"
+            "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Soporte.Domain\\Tienda.Soporte.Domain.csproj": {
+              "projectPath": "C:\\Users\\javie\\Documents\\Universidad\\Taller Web\\Repositorio\\Desarrollo\\Tienda.Soporte.Domain\\Tienda.Soporte.Domain.csproj"
             }
           }
         }

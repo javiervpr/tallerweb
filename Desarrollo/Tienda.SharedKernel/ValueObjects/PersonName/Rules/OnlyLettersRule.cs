@@ -15,7 +15,7 @@ namespace Tienda.SharedKernel.ValueObjects.Rule
             _value = value;
         }
 
-        public string Message => "El nombre no puede contener puede contener números";
+        public string Message => "El texto no puede contener puede contener números";
 
         public bool IsBroken()
         {

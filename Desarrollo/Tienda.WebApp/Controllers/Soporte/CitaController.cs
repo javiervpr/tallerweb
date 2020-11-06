@@ -24,22 +24,23 @@ namespace Tienda.WebApp.Controllers.Soporte
             _unitOfWork = unitOfWork;
         }
 
+        [HttpGet]
+        [Route("")]
+        public async Task<IActionResult> GetCitas()
+        {
+            IList<Cita> citas = await _citaRepository.GetCitas();
+            return Ok(citas);
+        }
         [HttpPost]
         [Route("insertar")]
         public async Task<IActionResult> Insertar([FromBody] CitaViewModel citaViewModel)
         {
-            try
-            {
-                Cita cita = new Cita(citaViewModel.FechaTrabajo, citaViewModel.Direccion, citaViewModel.OrdenServicio, citaViewModel.getListTecnicos());
-                await _citaRepository.Insert(cita);
-                await _unitOfWork.Commit();
-                return Ok("Success");
 
-            }
-            catch (Exception e)
-            {
-                return BadRequest(e);
-            }
+            Cita cita = new Cita(citaViewModel.FechaTrabajo, citaViewModel.Direccion, citaViewModel.OrdenServicio, citaViewModel.getListTecnicos());
+            await _citaRepository.Insert(cita);
+            await _unitOfWork.Commit();
+            return Ok("Success");
+
         }
     }
 }
